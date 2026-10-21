@@ -1,0 +1,6 @@
+{
+  "name": "전장의 십자가: 제2차 세계대전 위생병의 고뇌",
+  "description": "제2차 세계대전 미 육군 전투 위생병이 마주하는 처절한 윤리적 딜레마. 트리아지, 적군 치료, 전우의 안락사 등 생사의 기로를 다룬 인터랙티브 픽션.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
